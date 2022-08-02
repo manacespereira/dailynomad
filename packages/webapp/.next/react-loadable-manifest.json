@@ -1,0 +1,20 @@
+{
+  "../../shared/src/contexts/SubscriptionContext.tsx -> ../graphql/subscriptions": {
+    "id": "../../shared/src/contexts/SubscriptionContext.tsx -> ../graphql/subscriptions",
+    "files": [
+      "static/chunks/subscriptions.js"
+    ]
+  },
+  "_app.tsx -> ../components/CookieBanner": {
+    "id": "_app.tsx -> ../components/CookieBanner",
+    "files": [
+      "static/chunks/components_CookieBanner_tsx.js"
+    ]
+  },
+  "_app.tsx -> @dailydotdev/shared/src/components/modals/LoginModal": {
+    "id": "_app.tsx -> @dailydotdev/shared/src/components/modals/LoginModal",
+    "files": [
+      "static/chunks/loginModal.js"
+    ]
+  }
+}
